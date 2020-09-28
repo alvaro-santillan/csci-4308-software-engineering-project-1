@@ -1,6 +1,6 @@
 # CSCI-4308 Software Engineering Capstone
 
-Continued Development for the CU psychology department's CRD research app.
+Continued development for the CU Psychology department's CRD research app.
 
 ## Contact Us
 
