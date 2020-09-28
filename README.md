@@ -12,7 +12,7 @@ Dev Team Year 2 (US): <br>
   guxu4949@colorado.edu <br>
   Liyang.Ru@colorado.edu <br>
   Madison.Rivas@colorado.edu <br>
-  Siyu Yao <siya7259@colorado.edu> <br>
+  siya7259@colorado.edu <br>
 
 Dev Team Year 1: <br>
   gale9647@colorado.edu <br>
