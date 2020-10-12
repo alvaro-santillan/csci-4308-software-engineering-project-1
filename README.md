@@ -20,10 +20,11 @@ Dev Team Year 1: <br>
   ka.chen@colorado.edu <br>
   mahon@colorado.edu <br>
   
-Dev Team Year 1 Git Repo:
-  https://asandridge.github.io/psych-capstone/
+Dev Team Year 1 Git Repo: <br>
+  https://github.com/asandridge/psych-capstone <br>
   
-Dev Team Year 1 App:
-https://github.com/asandridge/psych-capstone
+Dev Team Year 1 App: <br>
+  https://asandridge.github.io/psych-capstone/ <br>
   
-9/27/2020 Meeting Log: https://docs.google.com/document/d/1Hydbk6iyPPJOujygeWKPKb5-FuZ3QWpAKyhPqK8_4e8/edit?ts=5f713b5f
+9/27/2020 Meeting Log: <br>
+  https://docs.google.com/document/d/1Hydbk6iyPPJOujygeWKPKb5-FuZ3QWpAKyhPqK8_4e8/edit?ts=5f713b5f
