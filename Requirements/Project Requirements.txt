@@ -1,0 +1,13 @@
+
+Project Motivation: To help reduce the implicit bias between different racial/gender groups. Training people to recognize an individual other than merely belong to a group, a label.
+
+Project Main Goals
+1) Need to expand to multiple gender and racial groups.
+2) Force choice task. see face and pick from 4 images, daily assessment. “Forced choice” should be the final, ultimate, in-the-end-of-day test.
+
+Still Important
+3) Use ai to generate faces
+4) Prepare and publish mobile apps.
+
+Project nice to have
+1) game mode would be cool
